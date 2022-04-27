@@ -8,8 +8,4 @@ public class Nematode {
     public Nematode(PApplet pa){
         this.pa = pa;
     }
-
-    public void render(int i, float f){
-
-    }
 }
